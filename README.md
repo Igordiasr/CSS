@@ -2,7 +2,7 @@
 
 Clone este repositório na sua máquina.
 
-A sua estrutura HTML estará assim:
+A sua estrutura HTML estará assim: 
 
 ![image](https://github.com/user-attachments/assets/5d9328b2-fbaa-452b-b3eb-e1ef41eb7c65)
 
